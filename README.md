@@ -40,7 +40,8 @@ The dataset consists of 8,523 rows covering various grocery items and outlet det
 ## Dashboard Output
 Here is a look at the final dashboard:
 
-![BlinkIT Analytics Dashboard](image_b285c2.png)
+[![BlinkIT Analytics Dashboard](image_b285c2.png)](https://github.com/priyapatel96140/blinkit-power-bi-project/blob/main/blinkit.png)
+
 
 *Quick stats from the view:*
 * Total Revenue: **$1.20M**
